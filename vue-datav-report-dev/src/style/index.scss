@@ -1,0 +1,21 @@
+.emphasis{
+    display: inline-block;
+    margin-left: 5px;
+    font-weight: 700;
+}
+.increase{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: transparent transparent red transparent;
+    border-width: 5px;
+    margin: 0 0 3px 5px;
+}
+.decrease{
+    width: 0;
+    height: 0;
+    border-style: solid;
+    border-color: green transparent transparent transparent;
+    border-width: 5px;
+    margin: 3px 0 0 5px;
+}
